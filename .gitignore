@@ -1,2 +1,6 @@
-.pdf
-.pptx
+/my_venv
+
+*.pdf
+*.pptx
+*.csv
+*.db
